@@ -5,7 +5,9 @@
 Welcome to my Netflix Data Analysis Dashboard! This project provides a comprehensive visualization of Netflix's content library, offering insights into movies and TV shows available on the platform. The dashboard includes analyses of content distribution by country, ratings, genres, and more.
 
 [Check out my Interactive Netflix Dashboard](https://public.tableau.com/app/profile/manavi.ghorpade/viz/Netflixdashboard_17170587202380/Netflix?publish=yes)
+## Dahboard Image
 
+![imgae of dashboard](https://github.com/Manavi-ghorpade/Netflix_DataAnalysis_Tableau/blob/main/Netflix.png?raw=true)
 ## Features
 
 - **Content Distribution by Country**: Visualizes the number of movies and TV shows available in different countries.
@@ -36,6 +38,4 @@ Welcome to my Netflix Data Analysis Dashboard! This project provides a comprehen
 - Documentaries and Stand-Up Comedy are among the most popular genres.
 - There is a higher proportion of movies compared to TV shows in the Netflix library.
 
-## Dahboard Image
 
-![imgae of dashboard](https://github.com/Manavi-ghorpade/Netflix_DataAnalysis_Tableau/blob/main/Netflix.png?raw=true)
